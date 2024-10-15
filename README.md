@@ -1,3 +1,3 @@
 # VBA-challenge
-I used the lastrow variable from the census activity.
-I used Xpert to format as percentages.
+## Purpose
+Create a VBA script to calculate, display, and conditionally format quarterly changes in stock.
